@@ -1,5 +1,5 @@
 # ShadeView
-仿QQ空间的广告动画效果
+    仿QQ空间的广告动画效果
 
 
 ### 使用说明
@@ -12,8 +12,8 @@
      />    
     如果需要背景形成两广告图片的切换，可以如下布局：
     <RelativeLayout
-    android:layout_width="match_parent"
-    android:layout_height="240dp">
+        android:layout_width="match_parent"
+        android:layout_height="240dp">
     <!--背景广告放在前面-->
     <ImageView
         android:id="@+id/iv1"
@@ -32,3 +32,4 @@
     </RelativeLayout>    
     具体使用可以见demo.
     效果图如下：
+    ![效果图](https://github.com/zhaobaobaobest/ct_progress/blob/master/effect.gif)   
