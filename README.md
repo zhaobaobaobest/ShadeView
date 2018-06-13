@@ -1,5 +1,5 @@
 # ShadeView
-    仿QQ空间的广告动画效果
+仿QQ空间的广告动画效果
 
 
 ### 使用说明
@@ -30,6 +30,6 @@
         />
 
     </RelativeLayout>    
-    具体使用可以见demo.
+    具体使用以及点击范围的监听可以见demo.
     效果图如下：
-    ![效果图](https://github.com/zhaobaobaobest/ct_progress/blob/master/effect.gif)   
+![效果图](https://github.com/zhaobaobaobest/ShadeView/blob/master/effect.gif)   
